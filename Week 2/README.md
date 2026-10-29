@@ -1,0 +1,1 @@
+# Mini semantic search over FAQs using Pandas, embeddings and Chroma

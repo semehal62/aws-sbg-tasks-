@@ -1,0 +1,16 @@
+id,question,answer
+1,How do I reset my password?,Click 'Forgot password' on the login page and follow the email link to set a new one.
+2,How can I change my email address?,"Go to Account Settings, choose Profile, and update your email. You will need to verify the new address."
+3,How do I delete my account?,"Open Account Settings, scroll to the bottom, and click Delete Account. This cannot be undone."
+4,What payment methods do you accept?,"We accept credit cards, debit cards, PayPal, and mobile money."
+5,How do I get a refund?,Contact support within 14 days of purchase with your order number and we will process your refund.
+6,Can I cancel my subscription at any time?,Yes. Go to Billing and click Cancel Subscription. You keep access until the end of the billing period.
+7,How do I update my billing information?,"Go to Billing, click Payment Method, and enter your new card or payment details."
+8,Where can I download my invoices?,Invoices are in the Billing section under Invoice History. Click any invoice to download it as a PDF.
+9,Is my personal data secure?,Yes. We encrypt data in transit and at rest and never sell your information to third parties.
+10,How do I enable two-factor authentication?,"In Security Settings, turn on Two-Factor Authentication and scan the QR code with an authenticator app."
+11,Why is the app running slowly?,"Try clearing your cache, updating to the latest version, and checking your internet connection."
+12,Does the app work offline?,"Some features work offline, but syncing your data requires an internet connection."
+13,How do I contact customer support?,Use the Help button in the app or email support@example.com. We reply within 24 hours.
+14,Can I use the service on multiple devices?,Yes. You can sign in on up to three devices at the same time.
+15,How do I change the app language?,"Open Settings, choose Language, and select your preferred language from the list."

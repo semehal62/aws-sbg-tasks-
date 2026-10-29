@@ -43,7 +43,7 @@ week1-python-basics/
 ### 1. Clone the repository
 
 ```bash
-git clone [week1-python-basics](https://github.com/Sarah-Tuemay/week1-python-basics)
+git clone [week1-demo](https://github.com/semehal62/week1-demo)
 cd week1-deliverable
 ```
 

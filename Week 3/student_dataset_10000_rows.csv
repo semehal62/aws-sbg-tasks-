@@ -1,18 +1,20 @@
 study_hours,attendance,sleep_hours,internet_usage,assignments_completed,previous_score,exam_score,placement_status
 7,56,8,7,10,62,100.0,Placed
+7,56,8,7,10,62,100.0,Placed
 4,69,5,3,8,56,100.0,Placed
 11,60,7,6,10,45,100.0,Placed
 8,99,9,8,4,55,90.17,Placed
 5,52,8,6,8,40,78.82,Placed
 7,40,9,10,0,60,72.33,Placed
 10,40,4,11,9,50,98.12,Placed
+10,40,4,11,9,50,98.12,Placed
 3,86,7,3,7,85,100.0,Placed
-7,72,8,5,18,48,96.81,Placed
+7,72,8,5,sem,48,96.81,Placed
 11,77,4,9,15,69,100.0,Placed
 11,64,8,8,12,76,100.0,Placed
 8,65,5,6,4,87,100.0,Placed
 5,52,6,9,17,89,95.36,Placed
-4,98,9,2,8,70,100.0,Placed
+4,98,9,2,8,70,,Placed
 8,67,8,11,3,56,83.49,Placed
 8,72,7,9,13,87,100.0,Placed
 3,76,8,10,6,36,63.26,Not Placed
@@ -24,6 +26,7 @@ study_hours,attendance,sleep_hours,internet_usage,assignments_completed,previous
 2,47,8,2,19,87,98.66,Placed
 5,88,6,3,16,43,100.0,Placed
 1,86,8,1,4,78,91.65,Placed
+10,95,9,4,7,41,100.0,Placed
 10,95,9,4,7,41,100.0,Placed
 6,40,9,2,9,51,95.6,Placed
 9,51,7,2,5,95,100.0,Placed
